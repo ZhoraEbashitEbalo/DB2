@@ -59,6 +59,7 @@ p {
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-top: 20%;
 }
 
 .media-container video {
